@@ -1,11 +1,10 @@
 {
   "name": "richcss_redtie",
-  "authors": "AUTHOR_NAME",
-  "email": "AUTHOR_EMAIL",
-  "description": "DESCRIPTION",
-  "version": "0.0.0",
-  "homepage": "GITHUB_REPO_URL",
+  "authors": "alexisc22",
+  "email": "http://www.oswd.org/user/profile/id/19679/",
+  "description": "Richcss version of red tie",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fdp-A4/richcss_redtie",
   "dependencies": {
-    "DEPENDECY_NAME": "DEPENDECY_VERSION"
   }
 }
